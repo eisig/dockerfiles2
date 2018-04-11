@@ -1,2 +1,2 @@
-FROM quay.io/spinnaker/deck:v2.1176.0
+FROM gcr.io/spinnaker-marketplace/deck:2.1.1-20180302170105
 LABEL spinnaker-app=deck

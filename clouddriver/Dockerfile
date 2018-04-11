@@ -1,2 +1,2 @@
-FROM quay.io/spinnaker/clouddriver:v1.774.0
+FROM gcr.io/spinnaker-marketplace/clouddriver:2.1.0-20180319132609
 LABEL spinnaker-app=clouddriver
